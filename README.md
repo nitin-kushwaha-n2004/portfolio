@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+# Portfolio
+My personal portfolio website built with React + Vite + Tailwind CSS.
